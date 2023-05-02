@@ -1,0 +1,2 @@
+- AWS
+  - [x] AWS Secret Manager
